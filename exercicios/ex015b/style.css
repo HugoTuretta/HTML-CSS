@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+}
+h1{
+    color: brown;
+    background-color: goldenrod;
+    font-size: 30pt;
+    text-decoration: underline;
+}
+h2{
+    color: brown;
+    font-size: 22pt;
+}
+a{
+    color: brown;
+    text-align: right;
+}
